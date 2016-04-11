@@ -351,13 +351,13 @@ footer a:hover {
 }
 
 .apoio-logo {
-    max-width: 40%;
+    max-width: 30%;
     display: inline !important;
 }
 
 .apoio-logo:last-child {
     margin-left: 10%;
-    max-width: 30% !important;
+    max-width: 20% !important;
 }
 
 .gray-section{
